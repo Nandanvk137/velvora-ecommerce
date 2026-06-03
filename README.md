@@ -1,4 +1,4 @@
-# PulseMetrics — SaaS Dashboard
+# Velvora-ecommerce
 
 Full-stack SaaS dashboard built with **Next.js 14**, **TypeScript**, **Tailwind CSS**, **shadcn/ui**, **MongoDB**, **Prisma**, **NextAuth**, **Zustand**, **React Hook Form**, **Zod**, and **Recharts**.
 
@@ -30,9 +30,6 @@ npm run db:seed
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
-
-**Demo login:** `demo@pulsemetrics.com` / `password123`
 
 ## Scripts
 
